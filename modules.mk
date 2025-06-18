@@ -26,11 +26,11 @@ LSP_3RD_PARTY_INC_OPT      := -idirafter
 LSP_3RD_PARTY_URL_RO       := https://github.com/lsp-plugins/$(LSP_3RD_PARTY_NAME).git
 LSP_3RD_PARTY_URL_RW       := git@github.com:lsp-plugins/$(LSP_3RD_PARTY_NAME).git
 
-LSP_COMMON_LIB_VERSION     := 1.0.42
+LSP_COMMON_LIB_VERSION     := master
 LSP_COMMON_LIB_NAME        := lsp-common-lib
 LSP_COMMON_LIB_TYPE        := src
-LSP_COMMON_LIB_URL_RO      := https://github.com/lsp-plugins/$(LSP_COMMON_LIB_NAME).git
-LSP_COMMON_LIB_URL_RW      := git@github.com:lsp-plugins/$(LSP_COMMON_LIB_NAME).git
+LSP_COMMON_LIB_URL_RO      := https://github.com/viad00/$(LSP_COMMON_LIB_NAME).git
+LSP_COMMON_LIB_URL_RW      := git@github.com:viad00/$(LSP_COMMON_LIB_NAME).git
 
 LSP_DSP_LIB_VERSION        := 1.0.30
 LSP_DSP_LIB_NAME           := lsp-dsp-lib
