@@ -162,7 +162,7 @@ LSP_PLUGINS_LIMITER_URL_RW              := git@github.com:lsp-plugins/$(LSP_PLUG
 
 LSP_PLUGINS_LOUD_COMP_VERSION           := 1.0.25
 LSP_PLUGINS_LOUD_COMP_NAME              := lsp-plugins-loud-comp
-LSP_PLUGINS_LOUD_COMP_TYPE            w  := plug
+LSP_PLUGINS_LOUD_COMP_TYPE              := plug
 LSP_PLUGINS_LOUD_COMP_URL_RO            := https://github.com/lsp-plugins/$(LSP_PLUGINS_LOUD_COMP_NAME).git
 LSP_PLUGINS_LOUD_COMP_URL_RW            := git@github.com:lsp-plugins/$(LSP_PLUGINS_LOUD_COMP_NAME).git
 
