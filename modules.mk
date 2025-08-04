@@ -102,7 +102,7 @@ LSP_WS_LIB_URL_RW          := git@github.com:lsp-plugins/$(LSP_WS_LIB_NAME).git
 LSP_PLUGIN_FW_VERSION      := 1.0.30
 LSP_PLUGIN_FW_NAME         := lsp-plugin-fw
 LSP_PLUGIN_FW_TYPE         := src
-LSP_PLUGIN_FW_URL_RO       := https://github.com/lsp-plugins/$(LSP_PLUGIN_FW_NAME).git
+LSP_PLUGIN_FW_URL_RO       := https://github.com/Artem3213212/lsp-plugin-fw-rv64.git
 LSP_PLUGIN_FW_URL_RW       := git@github.com:lsp-plugins/$(LSP_PLUGIN_FW_NAME).git
 
 LSP_PLUGINS_SHARED_VERSION := 1.0.29
